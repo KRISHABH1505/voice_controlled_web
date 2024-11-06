@@ -1,9 +1,6 @@
-# React Js Voice Controlled Simple Website [Version 1.1]
+# React Js Voice Controlled Simple Website 
 
-This is voice controlled website version 1.1.
-
-[checkout the blog](https://ramansharma.hashnode.dev/voice-controllable-website)
-
+This is voice controlled website 
 ## Preprerequisite
 
 1. Enable Youtube Data API v3 on Google Cloud Console
@@ -18,7 +15,7 @@ This is voice controlled website version 1.1.
 1. Clone this repo
 
    ```bash
-   git clone git@github.com:RamanSharma100/Reactjs-voice-controllable-website.git
+   git clone git@github.com:TusharG22/voice_controlled_web.git
    ```
 
 2. download the dependencies
